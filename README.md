@@ -1,4 +1,4 @@
-# CS7641 - Assignment 2 - Randomized Optimization
+# Randomized Optimization
 
 
  ## Overleaf Link
