@@ -1,8 +1,7 @@
 # Randomized Optimization
 
 
- ## Overleaf Link
-'https://www.overleaf.com/read/ssvnjdftybbx#747777'
+ 
 
 ## About this Project
 This is a project that explores randomized optimization using 3 optimization problems on two fitness functions.
@@ -33,8 +32,6 @@ Overleaf read only project can be found here: "insrt url"
 - mlrose_hiive
 - 
 ## 1. Setting up environment
-- Download the code repository using the box link 'https://gatech.box.com/s/8ewvl2ddv7ohe4scq62i6esklq75pdw9'
-- You will need to unzip the file
 - The data can be found here so no need to download it externally
 - Navigate to the `randomized-optimization` directory using `cd randomized-optimization`
 - Clone the mlrose repository into the randomized-optimization folder so it can be used in the notebooks
