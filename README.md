@@ -51,42 +51,6 @@ conda activate randomized_optimization
 - There is no need to navigate to the data folder as the jupyter notebooks will automatically access the necessary datasets
 
 ## 3. Directory Structure
-
-├── data
-│   └── phishing_dataset.csv
-├── images
-    ├── flipflop
-        ├── ga
-        ├── rhc
-        └── sa
-    ├── fourpeaks
-        ├── ga
-        ├── rhc
-        └── sa
-    ├── n-queens
-        ├── ga
-        ├── rhc
-        └──sa
-    └── nn
-        ├── ga
-        ├── rhc
-        └──sa
-├── mlrose
-├── notebooks
-    ├── flip-flop-all-sizes.ipynb
-    ├── flip-flop-with-size.ipynb
-    ├── fourpeaks-all-sizes.ipynb
-    ├── fourpeaks-with-size.ipynb
-    ├── nn-ga.ipynb
-    ├── nn-rhc.ipynb
-    └── nn-sa.ipynb
-├── results
-    ├── ga
-    ├── rhc
-    └── sa
-├── environment.yml
-└── README.md
-
 - data: holds the datasets
 - images: holds 6 directories (1 for each algorithm per dataset) containing images/plots from the perspective notebook
 - notebooks: holds the jupyter notebook files
@@ -122,3 +86,6 @@ Note some of the code was copied/stolen from some of these files. Most of it is 
 
 ### Notes:
 The images are and results are already in the folders but will be regenerated if the notebooks are run again.
+
+## Disclaimer
+This code repository and all its contents are the intellectual property of the owner and are protected under applicable copyright laws. Unauthorized copying, distribution, or reproduction of any part of this repository, whether in whole or in part, is strictly prohibited. This includes, but is not limited to, duplicating, sharing, or deriving works without explicit written consent from the owner. By accessing this repository, you agree to respect these terms and refrain from any actions that violate intellectual property rights.
